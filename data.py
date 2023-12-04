@@ -38,4 +38,5 @@ def get_training_data():
 if __name__ == '__main__':
     # uncomment to run
     # get_collections()
-    get_training_data()
+    # get_training_data() -> do not run because it's generated already
+    print()
