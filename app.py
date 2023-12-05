@@ -1,3 +1,4 @@
+import pickle
 from flask import Flask, request, jsonify
 from bsbi import BSBIIndex
 from compression import VBEPostings
@@ -22,13 +23,16 @@ def retrieve():
                           postings_encoding=VBEPostings,
                           output_dir='index')
     BSBI_instance.load()
+    with open('doc_titles/pkl', 'rb') as file:
+        doc_titles = pickle.load(file)
+
     query = request.args.get('query', '')
     results = BSBI_instance.retrieve_bm25(query, k=100)
     contents = []
     for _, doc in results:
         with open(doc, 'r', encoding='utf-8') as file:
             content = file.read()
-            contents.append({'file_name': doc, 'content': content})
+            contents.append({'file_name': doc, 'title': doc_titles[doc], 'content': content})
     data = {'results': contents}
     return jsonify(data)
 
