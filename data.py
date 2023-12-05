@@ -6,7 +6,7 @@ def get_collections():
     dataset = ir_datasets.load("beir/climate-fever")
     i = 0
     block_no = 0
-    for doc in dataset.docs_iter()[::25]:
+    for doc in dataset.docs_iter():
         if i == 10_000:
             i = 0
             block_no += 1
@@ -37,6 +37,6 @@ def get_training_data():
 
 if __name__ == '__main__':
     # uncomment to run
-    # get_collections()
+    get_collections()
     # get_training_data() -> do not run because it's generated already
-    print()
+    # print()
