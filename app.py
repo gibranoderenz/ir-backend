@@ -27,10 +27,13 @@ def load_bsbi_instance():
         BSBI_instance.load()
         bsbi_loaded = True
 
+    return BSBI_instance
+
+def load_titles():
     with open('doc_titles.pkl', 'rb') as file:
         doc_titles = pickle.load(file)
-
-    return BSBI_instance, doc_titles
+    
+    return doc_titles
 
 def load_letor():
     global letor_loaded, letor
@@ -43,9 +46,11 @@ def load_letor():
 def retrieve_detail():
     doc = request.args.get('doc', '')
     response = {}
+    doc_titles = load_titles()
     try:
         with open(doc, 'r', encoding='utf-8') as file:
             content = file.read()
+            response['title'] = doc_titles[doc]
             response['content'] = content
         return jsonify(response)
     except FileNotFoundError:
@@ -54,7 +59,8 @@ def retrieve_detail():
 @app.route('/retrieve', methods=['GET'])
 def retrieve():
     global BSBI_instance, letor
-    BSBI_instance, doc_titles = load_bsbi_instance()
+    BSBI_instance = load_bsbi_instance()
+    doc_titles = load_titles()
     letor = load_letor()
 
     query = request.args.get('query', '')
