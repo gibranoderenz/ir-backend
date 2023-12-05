@@ -615,15 +615,15 @@ class BSBIIndex:
         di setiap block dan menyimpannya ke index yang baru.
         """
         # loop untuk setiap sub-directory di dalam folder collection (setiap block)
-        for block_dir_relative in tqdm(sorted(next(os.walk(self.data_dir))[1])):
-            td_pairs = self.parsing_block(block_dir_relative)
-            index_id = 'intermediate_index_'+block_dir_relative
-            self.intermediate_indices.append(index_id)
-            with InvertedIndexWriter(index_id, self.postings_encoding, directory=self.output_dir) as index:
-                self.write_to_index(td_pairs, index)
-                td_pairs = None
+        # for block_dir_relative in tqdm(sorted(next(os.walk(self.data_dir))[1])):
+        #     td_pairs = self.parsing_block(block_dir_relative)
+        #     index_id = 'intermediate_index_'+block_dir_relative
+        #     self.intermediate_indices.append(index_id)
+        #     with InvertedIndexWriter(index_id, self.postings_encoding, directory=self.output_dir) as index:
+        #         self.write_to_index(td_pairs, index)
+        #         td_pairs = None
 
-        self.save()
+        # self.save()
 
         with InvertedIndexWriter(self.index_name, self.postings_encoding, directory=self.output_dir) as merged_index:
             with contextlib.ExitStack() as stack:
