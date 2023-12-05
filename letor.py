@@ -181,8 +181,8 @@ class Letor():
         X_unseen = self.get_x_unseen(query, docs)
         scores = self.ranker.predict(X_unseen)
 
-        did_scores = [x for x in zip([did for (did, _) in docs], scores)]
-        sorted_did_scores = sorted(did_scores, key = lambda tup: tup[1], reverse = True)
+        did_scores = [x for x in zip(scores, [did for (did, _) in docs])]
+        sorted_did_scores = sorted(did_scores, key = lambda tup: tup[0], reverse = True)
         return sorted_did_scores
 
     def initialize_model(self):

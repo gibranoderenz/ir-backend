@@ -1,516 +1,516 @@
-2784 Regression_analysis 1
-2784 Richard_Lindzen 1
-2787 James_Hansen 1
-2787 Climate_sensitivity 1
-2788 James_Hansen 1
-2789 James_Hansen 1
-2790 General_circulation_model 1
-2790 Global_warming 1
-2794 Svante_Arrhenius 1
-2794 Richard_Lindzen 1
-2794 Global_warming 1
-2796 James_Hansen 1
-2796 Greenhouse_effect 1
-2797 Global_dimming 1
-2797 Global_warming 1
-2797 Black_carbon 1
-2798 Global_dimming 1
-2798 Particulates 1
-2798 Climate_system 1
-2798 Global_warming 1
-2799 Global_dimming 1
-2799 Wilkinson_Microwave_Anisotropy_Probe 1
-2799 Global_warming 1
-2800 Climate_sensitivity 1
-2800 Paleocene 1
-2800 Intergovernmental_Panel_on_Climate_Change 1
-2803 Earth 1
-2803 Earth's_energy_budget 1
-2803 Greenhouse_effect 1
-2803 Global_warming 1
-2805 Earth 1
-2805 Sea_ice 1
-2805 Global_warming 1
-2807 20th_century 1
-2807 Paleoclimatology 1
-2807 Temperature 1
-2807 Instrumental_temperature_record 1
-2809 Meteorology 1
-2809 Atlantic_Ocean 1
-2809 Climate_variability 1
-2809 Global_warming 1
-2813 Climate_sensitivity 1
-2815 Solar_cycle 1
-2815 Climate_change_in_the_Arctic 1
-2815 IPCC_Fourth_Assessment_Report 1
-2815 Global_warming 1
-2817 Climate_change_denial 1
-2817 Scientific_consensus_on_climate_change 1
-2817 Global_warming 1
-2818 Doctor_of_Philosophy 1
-2818 Art_Robinson 1
-2818 Oregon_Petition 1
-2818 Science,_technology,_engineering,_and_mathematics 1
-2819 Oregon_Petition 1
-2819 List_of_climate_scientists 1
-2819 Botany 1
-2819 Antarctica 1
-2821 Climate_change_(general_concept) 1
-2821 Scientific_consensus_on_climate_change 1
-2822 February_8 1
-2822 Hitler_Diaries 1
-2826 African_humid_period 1
-2826 Climate_change_(general_concept) 1
-2826 Lake_Tahoe 1
-2826 1257_Samalas_eruption 1
-2826 Cloud 1
-2827 Ice_age 1
-2827 Climate_change_(general_concept) 1
-2827 Younger_Dryas 1
-2827 Huaynaputina 1
-2834 Ice_core 1
-2834 Greenhouse_gas 1
-2834 Carbon_dioxide_in_Earth's_atmosphere 1
-2835 Arctic_Ocean 1
-2835 Arctic 1
-2835 Global_warming 1
-2836 Glacier 1
-2836 Ice_age 1
-2836 Post-glacial_rebound 1
-2837 Tendency_of_the_rate_of_profit_to_fall 1
-2837 Financial_crisis_of_2007–08 1
-2838 Snow 1
-2838 Extratropical_cyclone 1
-2838 Cryosphere 1
-2838 Precipitation 1
-2839 Retreat_of_glaciers_since_1850 1
-2839 Pine_Island_Glacier 1
-2839 Sea_level_rise 1
-2839 Ice_sheet 1
-2840 Climate_change_in_the_Arctic 1
-2840 Sea_level_rise 1
-2840 Arctic 1
-2840 Arctic_sea_ice_decline 1
-2841 Antarctic_sea_ice 1
-2841 Antarctica 1
-2843 Jason-1 1
-2843 Sea_level_rise 1
-2843 Physical_impacts_of_climate_change 1
-2844 Falsifiability 1
-2844 Econometrics 1
-2844 Science 1
-2844 Logical_positivism 1
-2845 Medieval_Warm_Period 1
-2845 Soon_and_Baliunas_controversy 1
-2845 Intergovernmental_Panel_on_Climate_Change 1
-2849 Medieval_Warm_Period 1
-2849 Hockey_stick_controversy 1
-2849 Intergovernmental_Panel_on_Climate_Change 1
-2853 Earth 1
-2853 Ozone 1
-2853 Ozone_layer 1
-2856 Meteorology 1
-2856 Ensemble_forecasting 1
-2856 Weather_forecasting 1
-2857 Weather 1
-2857 Friction 1
-2857 Liquid 1
-2857 Viscosity 1
-2862 Freedom_of_Information_requests_to_the_Climatic_Research_Unit 1
-2862 Climatic_Research_Unit_documents 1
-2862 Climatic_Research_Unit_email_controversy 1
-2867 Creation–evolution_controversy 1
-2867 Galileo_affair 1
-2867 Science_and_the_Catholic_Church 1
-2867 Creationism 1
-2868 2006_Texas_gubernatorial_election 1
-2868 Rick_Perry_2012_presidential_campaign 1
-2868 Rick_Perry 1
-2869 Scientific_consensus_on_climate_change 1
-2869 The_Great_Global_Warming_Swindle 1
-2869 Intergovernmental_Panel_on_Climate_Change 1
-2870 Mike_Hulme 1
-2870 Imagism 1
-2871 United_Nations 1
-2871 Global_warming_controversy 1
-2871 Intergovernmental_Panel_on_Climate_Change 1
-2876 Benny_Peiser 1
-2876 Merchants_of_Doubt 1
-2876 Scientific_consensus_on_climate_change 1
-2877 Google_Scholar 1
-2877 Web_of_Science 1
-2877 Philosophy_of_geography 1
-2880 Thermal_energy_storage 1
-2880 Concentrated_solar_power 1
-2880 Solar_power 1
-2881 Variable_renewable_energy 1
-2881 Renewable_energy_in_Kenya 1
-2881 Renewable_energy 1
-2882 Earth_Summit_2002 1
-2882 Climatic_Research_Unit_documents 1
-2882 Kevin_E._Trenberth 1
-2882 Global_warming 1
-2886 Scientific_consensus_on_climate_change 1
-2886 Kevin_E._Trenberth 1
-2886 Global_warming 1
-2887 Scarlet_fever 1
-2887 Dysentery 1
-2887 Dengue_fever 1
-2887 Prognosis 1
-2888 Hurricane_Sandy 1
-2888 Kevin_E._Trenberth 1
-2888 Global_warming_hiatus 1
-2888 Climatic_Research_Unit_email_controversy 1
-2890 Heat_wave 1
-2890 Ocean 1
-2891 Retreat_of_glaciers_since_1850 1
-2891 Post-glacial_rebound 1
-2891 Sea_level_rise 1
-2891 Geoid 1
-2894 Retreat_of_glaciers_since_1850 1
-2894 Climate_change_(general_concept) 1
-2894 Ice_sheet 1
-2895 GRACE_and_GRACE-FO 1
-2895 Gravity_of_Mars 1
-2895 Gravimeter 1
-2895 Gravity_Probe_B 1
-2896 GRACE_and_GRACE-FO 1
-2896 Post-glacial_rebound 1
-2897 GRACE_and_GRACE-FO 1
-2897 Antarctic_ice_sheet 1
-2898 Retreat_of_glaciers_since_1850 1
-2901 Data_visualization 1
-2901 Climatic_Research_Unit_email_controversy 1
-2901 Data_mining 1
-2902 Climatic_Research_Unit_documents 1
-2902 Climatic_Research_Unit_email_controversy 1
-2903 SeaLifeBase 1
-2903 Cross-validation_(statistics) 1
-2903 They 1
-2903 ZFS 1
-2907 Climate_of_the_Arctic 1
-2907 Ice_age 1
-2907 Sea_ice 1
-2907 Cryosphere 1
-2910 Sensor-based_sorting 1
-2910 Scientific_method 1
-2910 Artificial_intelligence 1
-2910 Free_will 1
-2910 Chemistry 1
-2912 Earth 1
-2912 Precipitation 1
-2912 Amundsen–Scott_South_Pole_Station 1
-2912 Winter_storm 1
-2912 Climate 1
-2914 Arctic_Ocean 1
-2914 Arctic_ice_pack 1
-2915 Air_pollution 1
-2915 Fossil_fuel_power_station 1
-2915 Pollution 1
-2916 Indoor_air_quality 1
-2916 Air_pollution 1
-2916 Respiratory_system 1
-2916 Natural_gas 1
-2918 Glossary_of_geography_terms 1
-2918 Norway 1
-2918 Precipitation 1
-2920 Global_warming 1
-2920 Global_warming_controversy 1
-2920 Climate_change_in_the_United_States 1
-2921 National_Oceanic_and_Atmospheric_Administration 1
-2922 Phenotype 1
-2922 Species 1
-2924 Climate_change_(general_concept) 1
-2924 Ice_core 1
-2924 Paleoclimatology 1
-2924 Global_warming_controversy 1
-2927 Carbon_capture_and_storage 1
-2927 Climate_sensitivity 1
-2928 Water 1
-2928 Carbon_dioxide 1
-2928 Greenhouse_gas 1
-2928 Global_warming 1
-2935 Global_cooling 1
-2935 Global_warming_controversy 1
-2935 Global_warming 1
-2939 Climate 1
-2939 Ice_age 1
-2939 Mesozoic 1
-2939 Eocene 1
-2940 Scientific_consensus_on_climate_change 1
-2940 Intergovernmental_Panel_on_Climate_Change 1
-2940 Global_warming 1
-2942 Carbon_dioxide 1
-2942 Greenhouse_gas 1
-2942 Carbon_dioxide_in_Earth's_atmosphere 1
-2942 Eocene 1
-2945 Reason 1
-2945 Scientific_consensus_on_climate_change 1
-2948 Attribution_of_recent_climate_change 1
-2948 Solar_activity_and_climate 1
-2948 Global_warming 1
-2949 Upper_Atmosphere_Research_Satellite 1
-2949 Sunlight 1
-2949 Solar_irradiance 1
-2951 Lucas_pseudoprime 1
-2951 Catalan_pseudoprime 1
-2951 Solar_irradiance 1
-2953 International_Standard_Book_Number 1
-2953 Legendre_symbol 1
-2953 Chinese_remainder_theorem 1
-2953 Modular_multiplicative_inverse 1
-2953 Solar_irradiance 1
-2959 IPCC_Fourth_Assessment_Report 1
-2959 Global_warming_controversy 1
-2959 Climate_change_and_agriculture 1
-2959 Scientific_consensus_on_climate_change 1
-2959 Intergovernmental_Panel_on_Climate_Change 1
-2961 Scientific_consensus_on_climate_change 1
-2963 Ice_core 1
-2963 Greenhouse_gas 1
-2963 Global_warming_controversy 1
-2966 Carbon_dioxide 1
-2966 Greenhouse_gas 1
-2966 Carbon_dioxide_in_Earth's_atmosphere 1
-2966 Scientific_consensus_on_climate_change 1
-2966 World_energy_consumption 1
-2967 Waste_heat 1
-2970 Hydrocarbon 1
-2970 Greenhouse_gas 1
-2970 Natural_gas 1
-2973 Climate_change_(general_concept) 1
-2973 Cloud 1
-2973 Global_warming 1
-2977 Carbon_dioxide 1
-2977 Troposphere 1
-2977 Global_warming 1
-2977 Eocene 1
-2978 Troposphere 1
-2978 Water_on_Mars 1
-2978 Eocene 1
-2978 Atmosphere_of_Venus 1
-2978 Snowball_Earth 1
-2979 Greenhouse_effect 1
-2979 Greenhouse_gas 1
-2979 Water_vapor 1
-2981 Water 1
-2981 Greenhouse_gas 1
-2981 Runaway_greenhouse_effect 1
-2982 Retreat_of_glaciers_since_1850 1
-2982 Attribution_of_recent_climate_change 1
-2982 Urban_heat_island 1
-2982 Global_warming 1
-2982 Effects_of_global_warming 1
-2983 Carbon_dioxide 1
-2983 Global_warming 1
-2986 Global_warming 1
-2989 Carbon_tax 1
-2989 Effects_of_global_warming 1
-2989 Stern_Review 1
-2989 Economics_of_global_warming 1
-2991 Bjørn_Lomborg 1
-2991 United_Kingdom 1
-2991 Stern_Review 1
-2992 Mauna_Loa 1
-2992 Mauna_Loa_Observatory 1
-2994 Greenhouse_effect 1
-2994 Mauna_Loa_Observatory 1
-2994 Keeling_Curve 1
-2994 Global_warming 1
-2997 Carbon_dioxide 1
-2997 Greenhouse_gas 1
-2997 Carbon_dioxide_in_Earth's_atmosphere 1
-2997 Ecosystem_ecology 1
-3000 Socompa 1
-3000 Level_Mountain 1
-3000 Under_the_Volcano 1
-3000 Ovid 1
-3000 Kīlauea 1
-3003 Venus 1
-3003 Greenhouse_effect 1
-3003 Carl_Sagan 1
-3003 Runaway_greenhouse_effect 1
-3004 Tibetan_calendar 1
-3004 Year 1
-3004 Orbital_resonance 1
-3004 Jupiter_trojan 1
-3004 Saturn 1
-3005 Paleocene–Eocene_Thermal_Maximum 1
-3005 Intergovernmental_Panel_on_Climate_Change 1
-3005 Holocene 1
-3005 Global_warming 1
-3007 Lakes_on_Mars 1
-3007 Ice_age 1
-3007 Aeolis_quadrangle 1
-3007 Gale_(crater) 1
-3008 Sun 1
-3008 Attribution_of_recent_climate_change 1
-3008 Atlantic_Ocean 1
-3008 Global_warming 1
-3009 Sun 1
-3009 Solar_activity_and_climate 1
-3009 Global_warming 1
-3011 Little_Ice_Age 1
-3011 Ice_age 1
-3011 Leap_year 1
-3011 Moon 1
-3017 East_Antarctic_Ice_Sheet 1
-3017 Global_warming_in_Antarctica 1
-3017 East_Antarctica 1
-3017 Antarctica 1
-3024 Climate_change_feedback 1
-3024 Positive_feedback 1
-3024 Negative_feedback 1
-3032 Gondwana 1
-3032 Supercontinent 1
-3032 Carbon_dioxide 1
-3032 Carbon_dioxide_in_Earth's_atmosphere 1
-3034 Climate_change_denial 1
-3034 Climate_change_feedback 1
-3034 Global_warming 1
-3038 Climate 1
-3038 Greenhouse_gas 1
-3038 Carbon_cycle 1
-3038 Global_warming 1
-3039 Climate 1
-3039 Climate_change_(general_concept) 1
-3039 General_circulation_model 1
-3039 Global_warming 1
-3044 Kiribati 1
-3044 Tuvalu 1
-3044 Maldives 1
-3044 Micronesia 1
-3046 Scientific_consensus_on_climate_change 1
-3046 Attribution_of_recent_climate_change 1
-3046 Carbon_dioxide 1
-3046 Global_warming 1
-3047 Carbon_sink 1
-3047 Carbon_dioxide 1
-3047 Greenhouse_gas 1
-3047 Fossil_fuel 1
-3048 Carbon_dioxide 1
-3048 Greenhouse_gas 1
-3048 Carbon_dioxide_in_Earth's_atmosphere 1
-3049 Carbon_dioxide 1
-3049 Greenhouse_gas 1
-3049 Eocene 1
-3049 Greenhouse_effect 1
-3049 Global_warming 1
-3051 Scientific_consensus_on_climate_change 1
-3051 Climate_change_(general_concept) 1
-3051 El_Niño 1
-3051 Global_warming 1
-3052 Paleocene 1
-3052 Global_warming 1
-3056 The_Great_Global_Warming_Swindle 1
-3056 Chlorofluorocarbon 1
-3056 Cosmic_ray 1
-3056 Antarctica 1
-3058 Sun 1
-3058 Tropical_cyclone 1
-3058 Eocene 1
-3058 Deccan_Traps 1
-3059 Carbon_dioxide 1
-3059 Chlorofluorocarbon 1
-3059 Greenhouse_gas 1
-3059 IPCC_Fourth_Assessment_Report 1
-3062 Sea_level_rise 1
-3063 Flying_Spaghetti_Monster 1
-3063 Ozone_depletion 1
-3063 James_Delingpole 1
-3064 Post-glacial_rebound 1
-3064 Greenland_ice_sheet 1
-3064 Sea_level_rise 1
-3064 Global_warming 1
-3066 Minimum_wage 1
-3066 List_of_topics_characterized_as_pseudoscience 1
-3066 History_of_economic_thought 1
-3066 Alternative_medicine 1
-3066 Economics 1
-3068 Spain 1
-3068 California 1
-3068 United_States 1
-3069 Scientific_consensus_on_climate_change 1
-3069 Greenhouse_gas 1
-3069 Global_warming 1
-3070 Poverty_in_the_United_Kingdom 1
-3072 Climate_sensitivity 1
-3074 IPCC_Fourth_Assessment_Report 1
-3074 Climate_sensitivity 1
-3074 Global_warming_controversy 1
-3075 Greenland 1
-3075 Sea_level_rise 1
-3079 Climate_change_in_the_Arctic 1
-3079 Arctic_methane_emissions 1
-3079 Arctic 1
-3082 Global_Climate_Coalition 1
-3082 IPCC_Second_Assessment_Report 1
-3082 Intergovernmental_Panel_on_Climate_Change 1
-3084 20th_century 1
-3084 El_Niño–Southern_Oscillation 1
-3084 Global_warming 1
-3090 Deforestation 1
-3090 Global_warming_potential 1
-3090 Global_warming 1
-3091 Communications_satellite 1
-3091 20th_century 1
-3091 Global_warming 1
-3093 Electromagnetic_radiation 1
-3093 Microwave_oven 1
-3093 Dielectric_heating 1
-3093 Microwave 1
-3099 IPCC_Fourth_Assessment_Report 1
-3099 Intergovernmental_Panel_on_Climate_Change 1
-3102 Soldering 1
-3102 Lava 1
-3102 Fuse_(electrical) 1
-3103 Climate_change_mitigation 1
-3103 Scientific_consensus_on_climate_change 1
-3103 Roger_A._Pielke_Jr. 1
-3103 Global_warming_controversy 1
-3104 Earth 1
-3104 Atmosphere_of_Earth 1
-3104 Global_warming 1
-3104 Climate_of_Antarctica 1
-3105 Attribution_of_recent_climate_change 1
-3105 Scientific_consensus_on_climate_change 1
-3105 Global_warming 1
-3110 Air_pollution 1
-3110 Greenhouse_gas 1
-3110 Global_warming 1
-3111 List_of_large-scale_temperature_reconstructions_of_the_last_2,000_years 1
-3111 Hockey_stick_controversy 1
-3111 Hockey_stick_graph 1
-3111 North_Report 1
-3112 Earth 1
-3112 Hockey_stick_controversy 1
-3112 Medieval_Warm_Period 1
-3114 West_Side_Highway 1
-3119 Greenhouse_gas 1
-3121 Cloud 1
-3121 Situation_awareness 1
-3121 Models_of_communication 1
-3122 Sunlight 1
-3123 Radiative_forcing 1
-3123 Carbon_dioxide_in_Earth's_atmosphere 1
-3123 Global_warming 1
-3124 Great_Barrier_Reef 1
-3125 Paleocene–Eocene_Thermal_Maximum 1
-3125 Climate_variability 1
-3125 Holocene 1
-3125 Global_warming 1
-3127 Theoretical_physics 1
-3127 Meteorology 1
-3127 Science 1
-3127 Physics 1
-3130 Earth 1
-3130 Attribution_of_recent_climate_change 1
-3131 Earth 1
-3131 El_Niño–Southern_Oscillation 1
-3131 Tropical_cyclone 1
-3131 Effects_of_global_warming 1
-3131 Volcano 1
-3134 Effects_of_global_warming 1
-3134 Heat_wave 1
-3134 Bushfires_in_Australia 1
-3134 Global_warming 1
+2784 Regression_analysis
+2784 Richard_Lindzen
+2787 James_Hansen
+2787 Climate_sensitivity
+2788 James_Hansen
+2789 James_Hansen
+2790 General_circulation_model
+2790 Global_warming
+2794 Svante_Arrhenius
+2794 Richard_Lindzen
+2794 Global_warming
+2796 James_Hansen
+2796 Greenhouse_effect
+2797 Global_dimming
+2797 Global_warming
+2797 Black_carbon
+2798 Global_dimming
+2798 Particulates
+2798 Climate_system
+2798 Global_warming
+2799 Global_dimming
+2799 Wilkinson_Microwave_Anisotropy_Probe
+2799 Global_warming
+2800 Climate_sensitivity
+2800 Paleocene
+2800 Intergovernmental_Panel_on_Climate_Change
+2803 Earth
+2803 Earth's_energy_budget
+2803 Greenhouse_effect
+2803 Global_warming
+2805 Earth
+2805 Sea_ice
+2805 Global_warming
+2807 20th_century
+2807 Paleoclimatology
+2807 Temperature
+2807 Instrumental_temperature_record
+2809 Meteorology
+2809 Atlantic_Ocean
+2809 Climate_variability
+2809 Global_warming
+2813 Climate_sensitivity
+2815 Solar_cycle
+2815 Climate_change_in_the_Arctic
+2815 IPCC_Fourth_Assessment_Report
+2815 Global_warming
+2817 Climate_change_denial
+2817 Scientific_consensus_on_climate_change
+2817 Global_warming
+2818 Doctor_of_Philosophy
+2818 Art_Robinson
+2818 Oregon_Petition
+2818 Science,_technology,_engineering,_and_mathematics
+2819 Oregon_Petition
+2819 List_of_climate_scientists
+2819 Botany
+2819 Antarctica
+2821 Climate_change_(general_concept)
+2821 Scientific_consensus_on_climate_change
+2822 February_8
+2822 Hitler_Diaries
+2826 African_humid_period
+2826 Climate_change_(general_concept)
+2826 Lake_Tahoe
+2826 1257_Samalas_eruption
+2826 Cloud
+2827 Ice_age
+2827 Climate_change_(general_concept)
+2827 Younger_Dryas
+2827 Huaynaputina
+2834 Ice_core
+2834 Greenhouse_gas
+2834 Carbon_dioxide_in_Earth's_atmosphere
+2835 Arctic_Ocean
+2835 Arctic
+2835 Global_warming
+2836 Glacier
+2836 Ice_age
+2836 Post-glacial_rebound
+2837 Tendency_of_the_rate_of_profit_to_fall
+2837 Financial_crisis_of_2007–08
+2838 Snow
+2838 Extratropical_cyclone
+2838 Cryosphere
+2838 Precipitation
+2839 Retreat_of_glaciers_since_1850
+2839 Pine_Island_Glacier
+2839 Sea_level_rise
+2839 Ice_sheet
+2840 Climate_change_in_the_Arctic
+2840 Sea_level_rise
+2840 Arctic
+2840 Arctic_sea_ice_decline
+2841 Antarctic_sea_ice
+2841 Antarctica
+2843 Jason
+2843 Sea_level_rise
+2843 Physical_impacts_of_climate_change
+2844 Falsifiability
+2844 Econometrics
+2844 Science
+2844 Logical_positivism
+2845 Medieval_Warm_Period
+2845 Soon_and_Baliunas_controversy
+2845 Intergovernmental_Panel_on_Climate_Change
+2849 Medieval_Warm_Period
+2849 Hockey_stick_controversy
+2849 Intergovernmental_Panel_on_Climate_Change
+2853 Earth
+2853 Ozone
+2853 Ozone_layer
+2856 Meteorology
+2856 Ensemble_forecasting
+2856 Weather_forecasting
+2857 Weather
+2857 Friction
+2857 Liquid
+2857 Viscosity
+2862 Freedom_of_Information_requests_to_the_Climatic_Research_Unit
+2862 Climatic_Research_Unit_documents
+2862 Climatic_Research_Unit_email_controversy
+2867 Creation–evolution_controversy
+2867 Galileo_affair
+2867 Science_and_the_Catholic_Church
+2867 Creationism
+2868 2006_Texas_gubernatorial_election
+2868 Rick_Perry_2012_presidential_campaign
+2868 Rick_Perry
+2869 Scientific_consensus_on_climate_change
+2869 The_Great_Global_Warming_Swindle
+2869 Intergovernmental_Panel_on_Climate_Change
+2870 Mike_Hulme
+2870 Imagism
+2871 United_Nations
+2871 Global_warming_controversy
+2871 Intergovernmental_Panel_on_Climate_Change
+2876 Benny_Peiser
+2876 Merchants_of_Doubt
+2876 Scientific_consensus_on_climate_change
+2877 Google_Scholar
+2877 Web_of_Science
+2877 Philosophy_of_geography
+2880 Thermal_energy_storage
+2880 Concentrated_solar_power
+2880 Solar_power
+2881 Variable_renewable_energy
+2881 Renewable_energy_in_Kenya
+2881 Renewable_energy
+2882 Earth_Summit_2002
+2882 Climatic_Research_Unit_documents
+2882 Kevin_E._Trenberth
+2882 Global_warming
+2886 Scientific_consensus_on_climate_change
+2886 Kevin_E._Trenberth
+2886 Global_warming
+2887 Scarlet_fever
+2887 Dysentery
+2887 Dengue_fever
+2887 Prognosis
+2888 Hurricane_Sandy
+2888 Kevin_E._Trenberth
+2888 Global_warming_hiatus
+2888 Climatic_Research_Unit_email_controversy
+2890 Heat_wave
+2890 Ocean
+2891 Retreat_of_glaciers_since_1850
+2891 Post-glacial_rebound
+2891 Sea_level_rise
+2891 Geoid
+2894 Retreat_of_glaciers_since_1850
+2894 Climate_change_(general_concept)
+2894 Ice_sheet
+2895 GRACE_and_GRACE-FO
+2895 Gravity_of_Mars
+2895 Gravimeter
+2895 Gravity_Probe_B
+2896 GRACE_and_GRACE-FO
+2896 Post-glacial_rebound
+2897 GRACE_and_GRACE-FO
+2897 Antarctic_ice_sheet
+2898 Retreat_of_glaciers_since_1850
+2901 Data_visualization
+2901 Climatic_Research_Unit_email_controversy
+2901 Data_mining
+2902 Climatic_Research_Unit_documents
+2902 Climatic_Research_Unit_email_controversy
+2903 SeaLifeBase
+2903 Cross-validation_(statistics)
+2903 They
+2903 ZFS
+2907 Climate_of_the_Arctic
+2907 Ice_age
+2907 Sea_ice
+2907 Cryosphere
+2910 Sensor-based_sorting
+2910 Scientific_method
+2910 Artificial_intelligence
+2910 Free_will
+2910 Chemistry
+2912 Earth
+2912 Precipitation
+2912 Amundsen–Scott_South_Pole_Station
+2912 Winter_storm
+2912 Climate
+2914 Arctic_Ocean
+2914 Arctic_ice_pack
+2915 Air_pollution
+2915 Fossil_fuel_power_station
+2915 Pollution
+2916 Indoor_air_quality
+2916 Air_pollution
+2916 Respiratory_system
+2916 Natural_gas
+2918 Glossary_of_geography_terms
+2918 Norway
+2918 Precipitation
+2920 Global_warming
+2920 Global_warming_controversy
+2920 Climate_change_in_the_United_States
+2921 National_Oceanic_and_Atmospheric_Administration
+2922 Phenotype
+2922 Species
+2924 Climate_change_(general_concept)
+2924 Ice_core
+2924 Paleoclimatology
+2924 Global_warming_controversy
+2927 Carbon_capture_and_storage
+2927 Climate_sensitivity
+2928 Water
+2928 Carbon_dioxide
+2928 Greenhouse_gas
+2928 Global_warming
+2935 Global_cooling
+2935 Global_warming_controversy
+2935 Global_warming
+2939 Climate
+2939 Ice_age
+2939 Mesozoic
+2939 Eocene
+2940 Scientific_consensus_on_climate_change
+2940 Intergovernmental_Panel_on_Climate_Change
+2940 Global_warming
+2942 Carbon_dioxide
+2942 Greenhouse_gas
+2942 Carbon_dioxide_in_Earth's_atmosphere
+2942 Eocene
+2945 Reason
+2945 Scientific_consensus_on_climate_change
+2948 Attribution_of_recent_climate_change
+2948 Solar_activity_and_climate
+2948 Global_warming
+2949 Upper_Atmosphere_Research_Satellite
+2949 Sunlight
+2949 Solar_irradiance
+2951 Lucas_pseudoprime
+2951 Catalan_pseudoprime
+2951 Solar_irradiance
+2953 International_Standard_Book_Number
+2953 Legendre_symbol
+2953 Chinese_remainder_theorem
+2953 Modular_multiplicative_inverse
+2953 Solar_irradiance
+2959 IPCC_Fourth_Assessment_Report
+2959 Global_warming_controversy
+2959 Climate_change_and_agriculture
+2959 Scientific_consensus_on_climate_change
+2959 Intergovernmental_Panel_on_Climate_Change
+2961 Scientific_consensus_on_climate_change
+2963 Ice_core
+2963 Greenhouse_gas
+2963 Global_warming_controversy
+2966 Carbon_dioxide
+2966 Greenhouse_gas
+2966 Carbon_dioxide_in_Earth's_atmosphere
+2966 Scientific_consensus_on_climate_change
+2966 World_energy_consumption
+2967 Waste_heat
+2970 Hydrocarbon
+2970 Greenhouse_gas
+2970 Natural_gas
+2973 Climate_change_(general_concept)
+2973 Cloud
+2973 Global_warming
+2977 Carbon_dioxide
+2977 Troposphere
+2977 Global_warming
+2977 Eocene
+2978 Troposphere
+2978 Water_on_Mars
+2978 Eocene
+2978 Atmosphere_of_Venus
+2978 Snowball_Earth
+2979 Greenhouse_effect
+2979 Greenhouse_gas
+2979 Water_vapor
+2981 Water
+2981 Greenhouse_gas
+2981 Runaway_greenhouse_effect
+2982 Retreat_of_glaciers_since_1850
+2982 Attribution_of_recent_climate_change
+2982 Urban_heat_island
+2982 Global_warming
+2982 Effects_of_global_warming
+2983 Carbon_dioxide
+2983 Global_warming
+2986 Global_warming
+2989 Carbon_tax
+2989 Effects_of_global_warming
+2989 Stern_Review
+2989 Economics_of_global_warming
+2991 Bjørn_Lomborg
+2991 United_Kingdom
+2991 Stern_Review
+2992 Mauna_Loa
+2992 Mauna_Loa_Observatory
+2994 Greenhouse_effect
+2994 Mauna_Loa_Observatory
+2994 Keeling_Curve
+2994 Global_warming
+2997 Carbon_dioxide
+2997 Greenhouse_gas
+2997 Carbon_dioxide_in_Earth's_atmosphere
+2997 Ecosystem_ecology
+3000 Socompa
+3000 Level_Mountain
+3000 Under_the_Volcano
+3000 Ovid
+3000 Kīlauea
+3003 Venus
+3003 Greenhouse_effect
+3003 Carl_Sagan
+3003 Runaway_greenhouse_effect
+3004 Tibetan_calendar
+3004 Year
+3004 Orbital_resonance
+3004 Jupiter_trojan
+3004 Saturn
+3005 Paleocene–Eocene_Thermal_Maximum
+3005 Intergovernmental_Panel_on_Climate_Change
+3005 Holocene
+3005 Global_warming
+3007 Lakes_on_Mars
+3007 Ice_age
+3007 Aeolis_quadrangle
+3007 Gale_(crater)
+3008 Sun
+3008 Attribution_of_recent_climate_change
+3008 Atlantic_Ocean
+3008 Global_warming
+3009 Sun
+3009 Solar_activity_and_climate
+3009 Global_warming
+3011 Little_Ice_Age
+3011 Ice_age
+3011 Leap_year
+3011 Moon
+3017 East_Antarctic_Ice_Sheet
+3017 Global_warming_in_Antarctica
+3017 East_Antarctica
+3017 Antarctica
+3024 Climate_change_feedback
+3024 Positive_feedback
+3024 Negative_feedback
+3032 Gondwana
+3032 Supercontinent
+3032 Carbon_dioxide
+3032 Carbon_dioxide_in_Earth's_atmosphere
+3034 Climate_change_denial
+3034 Climate_change_feedback
+3034 Global_warming
+3038 Climate
+3038 Greenhouse_gas
+3038 Carbon_cycle
+3038 Global_warming
+3039 Climate
+3039 Climate_change_(general_concept)
+3039 General_circulation_model
+3039 Global_warming
+3044 Kiribati
+3044 Tuvalu
+3044 Maldives
+3044 Micronesia
+3046 Scientific_consensus_on_climate_change
+3046 Attribution_of_recent_climate_change
+3046 Carbon_dioxide
+3046 Global_warming
+3047 Carbon_sink
+3047 Carbon_dioxide
+3047 Greenhouse_gas
+3047 Fossil_fuel
+3048 Carbon_dioxide
+3048 Greenhouse_gas
+3048 Carbon_dioxide_in_Earth's_atmosphere
+3049 Carbon_dioxide
+3049 Greenhouse_gas
+3049 Eocene
+3049 Greenhouse_effect
+3049 Global_warming
+3051 Scientific_consensus_on_climate_change
+3051 Climate_change_(general_concept)
+3051 El_Niño
+3051 Global_warming
+3052 Paleocene
+3052 Global_warming
+3056 The_Great_Global_Warming_Swindle
+3056 Chlorofluorocarbon
+3056 Cosmic_ray
+3056 Antarctica
+3058 Sun
+3058 Tropical_cyclone
+3058 Eocene
+3058 Deccan_Traps
+3059 Carbon_dioxide
+3059 Chlorofluorocarbon
+3059 Greenhouse_gas
+3059 IPCC_Fourth_Assessment_Report
+3062 Sea_level_rise
+3063 Flying_Spaghetti_Monster
+3063 Ozone_depletion
+3063 James_Delingpole
+3064 Post-glacial_rebound
+3064 Greenland_ice_sheet
+3064 Sea_level_rise
+3064 Global_warming
+3066 Minimum_wage
+3066 List_of_topics_characterized_as_pseudoscience
+3066 History_of_economic_thought
+3066 Alternative_medicine
+3066 Economics
+3068 Spain
+3068 California
+3068 United_States
+3069 Scientific_consensus_on_climate_change
+3069 Greenhouse_gas
+3069 Global_warming
+3070 Poverty_in_the_United_Kingdom
+3072 Climate_sensitivity
+3074 IPCC_Fourth_Assessment_Report
+3074 Climate_sensitivity
+3074 Global_warming_controversy
+3075 Greenland
+3075 Sea_level_rise
+3079 Climate_change_in_the_Arctic
+3079 Arctic_methane_emissions
+3079 Arctic
+3082 Global_Climate_Coalition
+3082 IPCC_Second_Assessment_Report
+3082 Intergovernmental_Panel_on_Climate_Change
+3084 20th_century
+3084 El_Niño–Southern_Oscillation
+3084 Global_warming
+3090 Deforestation
+3090 Global_warming_potential
+3090 Global_warming
+3091 Communications_satellite
+3091 20th_century
+3091 Global_warming
+3093 Electromagnetic_radiation
+3093 Microwave_oven
+3093 Dielectric_heating
+3093 Microwave
+3099 IPCC_Fourth_Assessment_Report
+3099 Intergovernmental_Panel_on_Climate_Change
+3102 Soldering
+3102 Lava
+3102 Fuse_(electrical)
+3103 Climate_change_mitigation
+3103 Scientific_consensus_on_climate_change
+3103 Roger_A._Pielke_Jr.
+3103 Global_warming_controversy
+3104 Earth
+3104 Atmosphere_of_Earth
+3104 Global_warming
+3104 Climate_of_Antarctica
+3105 Attribution_of_recent_climate_change
+3105 Scientific_consensus_on_climate_change
+3105 Global_warming
+3110 Air_pollution
+3110 Greenhouse_gas
+3110 Global_warming
+3111 List_of_large-scale_temperature_reconstructions_of_the_last_2,000_years
+3111 Hockey_stick_controversy
+3111 Hockey_stick_graph
+3111 North_Report
+3112 Earth
+3112 Hockey_stick_controversy
+3112 Medieval_Warm_Period
+3114 West_Side_Highway
+3119 Greenhouse_gas
+3121 Cloud
+3121 Situation_awareness
+3121 Models_of_communication
+3122 Sunlight
+3123 Radiative_forcing
+3123 Carbon_dioxide_in_Earth's_atmosphere
+3123 Global_warming
+3124 Great_Barrier_Reef
+3125 Paleocene–Eocene_Thermal_Maximum
+3125 Climate_variability
+3125 Holocene
+3125 Global_warming
+3127 Theoretical_physics
+3127 Meteorology
+3127 Science
+3127 Physics
+3130 Earth
+3130 Attribution_of_recent_climate_change
+3131 Earth
+3131 El_Niño–Southern_Oscillation
+3131 Tropical_cyclone
+3131 Effects_of_global_warming
+3131 Volcano
+3134 Effects_of_global_warming
+3134 Heat_wave
+3134 Bushfires_in_Australia
+3134 Global_warming
