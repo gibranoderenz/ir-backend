@@ -2,8 +2,15 @@ import pickle
 from flask import Flask, request, jsonify
 from bsbi import BSBIIndex
 from compression import VBEPostings
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app, resources={
+    r'/retrieve/*': {
+        "origins": "*",
+        "methods": ['GET']
+    }
+})
 
 @app.route('/retrieve/detail', methods=['GET'])
 def retrieve_detail():
