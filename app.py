@@ -30,7 +30,7 @@ def retrieve():
                           postings_encoding=VBEPostings,
                           output_dir='index')
     BSBI_instance.load()
-    with open('doc_titles/pkl', 'rb') as file:
+    with open('doc_titles.pkl', 'rb') as file:
         doc_titles = pickle.load(file)
 
     query = request.args.get('query', '')
